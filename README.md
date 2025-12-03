@@ -7,6 +7,8 @@ It utilizes profound Reinforcement Learning + Search in imperfect-information ga
 
 ![]<img width="709" height="620" alt="微信图片_20241203165100" src="https://github.com/user-attachments/assets/4e9667b0-83af-4499-b52b-1a18ef159ba2" />
 (https://raw.githubusercontent.com/deeptexas-ai/MasterAI-2.0-1vs1-NoLimit/main/proto/masterai.jpg) 
+![640 (1)](https://github.com/user-attachments/assets/716190e3-1e18-40a0-9392-3c4b33e2e437)
+<img width="235" height="324" alt="微信图片_20250713160546" src="https://github.com/user-attachments/assets/dc972e25-66bc-4b58-b5c1-94867486ce3a" />
 
 ## Technology
 
