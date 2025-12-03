@@ -5,7 +5,8 @@
 MasterAI v2.0 is an iterative algorithm derived from MasterAI v1.0 
 It utilizes profound Reinforcement Learning + Search in imperfect-information games and achieves superhuman performance in heads-up no-limit Texas Hold’em. Furthermore, it is a major step toward developing technologies for multiagent interactions in real world.
 
-![](https://raw.githubusercontent.com/deeptexas-ai/MasterAI-2.0-1vs1-NoLimit/main/proto/masterai.jpg) 
+![]<img width="709" height="620" alt="微信图片_20241203165100" src="https://github.com/user-attachments/assets/4e9667b0-83af-4499-b52b-1a18ef159ba2" />
+(https://raw.githubusercontent.com/deeptexas-ai/MasterAI-2.0-1vs1-NoLimit/main/proto/masterai.jpg) 
 
 ## Technology
 
