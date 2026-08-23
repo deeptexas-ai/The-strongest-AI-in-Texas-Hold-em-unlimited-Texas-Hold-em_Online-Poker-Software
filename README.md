@@ -38,7 +38,7 @@ python main.py
 
 **支持PokerStars/GGPoker/888Poker窗口捕获！**
 
-## 📱 💰 获取源码 | Contact
+## 📱 💰 问题反馈与交流
 
 
 📱 Telegram：@xuzongbin001
