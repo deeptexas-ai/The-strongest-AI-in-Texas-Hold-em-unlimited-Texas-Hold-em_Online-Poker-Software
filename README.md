@@ -6,7 +6,7 @@
 [![GGPoker](https://img.shields.io/badge/GGPoker-Supported-orange?style=for-the-badge&logo=GGPoker)](https://ggpoker.com)
 [![License](https://img.shields.io/github/license/deeptexas-ai/deep-holdem-ai?style=for-the-badge)](https://github.com/deeptexas-ai/deep-holdem-ai/blob/main/LICENSE)
 
-**德州AI / AI源码|德州源码/ 德州扑克AI在线辅助软件 / Strongest Texas Hold'em AI assistant / 最強德州撲克AI線上輔助軟體|德州最强扑克人工智能AI，德州AI源码**  
+**德州AI / AI源码|德州源码/ 德州扑克AI在线辅助软件 / Strongest Texas Hold'em AI assistant /德州撲克AI線上輔助軟體|德州扑克人工智能AI，德州AI源码**  
 实时决策引擎 + GTO解算器 + 胜率计算 + 范围分析，支持PokerStars/GGPoker / 實時決策引擎+GTO解算器+勝率計算+範圍分析 / Real-time decision + GTO solver + equity + range analysis.
 
 ## 🎯 核心能力 / Core Capabilities / 核心能力
